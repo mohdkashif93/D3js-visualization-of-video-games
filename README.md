@@ -9,10 +9,10 @@ I wish to demonstrate the growth of Video Game sales over the past 10 years for 
 ## Design
 By comparing the sales over different platforms , it thus makes it easy for us to compare the sales of a particular genre of games over different gaming consoles available in the market . The performance of that particular genre can be viewed through a separate graph , making it easier for us to analyse the trends for that particular genre . 
 
-####Dataset collection
+## Dataset collection
 The data set made available through [Kaggle](https://www.kaggle.com/) and can be accesse through [this link](https://www.kaggle.com/gregorut/videogamesales) . I had to extract the data of last 10 years from this complete dataset and perform different analysis to come up with the final design . 
 
-####Visualization design
+## Visualization design
 I decided to make to highlight the key features and take away points that could be analysed through this dataset . The first was grouping the sales based on genre of video games . Secondly, how well a particular genre performs over different gaming platforms available in the market . Finally , I also wanted to visualize the trends for a particular genre over the decade .
 
 ### Initial Design
@@ -78,8 +78,9 @@ I am glad that my friends were able to clearly understand correlations I am tryi
 
 ## Resources
 
-https://www.kaggle.com/
-https://github.com/d3/d3/wiki/Gallery
-https://www.kaggle.com/gregorut/videogamesales
-https://bl.ocks.org/mbostock/3885304
+1. https://www.kaggle.com/
+2. https://github.com/d3/d3/wiki/Gallery
+3. https://www.kaggle.com/gregorut/videogamesales
+4. https://bl.ocks.org/mbostock/3885304
+
 Udacity’s course on Data Visualization helped me a lot in understanding the nuts and bolts of D3.js . 
